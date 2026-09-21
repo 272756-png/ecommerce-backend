@@ -1,0 +1,2 @@
+@ManyToOne
+private Cliente cliente;
